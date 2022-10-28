@@ -1,5 +1,5 @@
 # Create a micro-service to manage bank accounts
-#
+
 ##### Work to be done:
 1. Create a Spring Boot project with Web, Spring Data JPA, H2, Lombok dependencies.
 2. Create the JPA entity Account.
